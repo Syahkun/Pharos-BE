@@ -1,0 +1,8 @@
+flask
+Flask-Migrate
+PyMySQL
+flask-restful
+Flask-SQLAlchemy
+flask_cors
+werkzeug
+# flask-jwt-extended
